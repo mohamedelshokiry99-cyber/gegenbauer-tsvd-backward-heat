@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Gegenbauer coordinates and truncated SVD for the backward heat problem: code and results"
+authors:
+  - family-names: Elshokiry
+    given-names: Mohamed Ahmed
+    orcid: "https://orcid.org/0009-0001-4340-5185"
+  - family-names: Youssri
+    given-names: Youssri Hassan
+    orcid: "https://orcid.org/0000-0003-0403-8797"
+license: MIT
+repository-code: "https://github.com/mohamedelshokiry99-cyber/gegenbauer-tsvd-backward-heat"
+preferred-citation:
+  type: article
+  title: "Gegenbauer coordinates and truncated SVD for the backward heat problem: an implicit degree weight and the role of boundary conditions"
+  authors:
+    - family-names: Elshokiry
+      given-names: Mohamed Ahmed
+    - family-names: Youssri
+      given-names: Youssri Hassan
+  journal: "Journal of Mathematical Modeling"
+  status: submitted
+  year: 2026

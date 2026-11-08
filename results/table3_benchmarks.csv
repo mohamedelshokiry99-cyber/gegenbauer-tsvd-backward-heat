@@ -1,0 +1,13 @@
+case,family,risk,parameter,rank
+Triangular,raw Gegenbauer,0.0034894666650654516,0.5,5
+Triangular,raw Legendre,0.0034894666650654516,0.5,5
+Triangular,physical,0.0037727568118897294,0.0,5
+Triangular,explicit weight,0.0034701368138679617,0.3,5
+Sine,raw Gegenbauer,0.005784431031688611,1.1,3
+Sine,raw Legendre,0.014397431212286411,0.5,4
+Sine,physical,0.005649753779707052,0.0,4
+Sine,explicit weight,0.005649753779707052,-0.0,4
+Cosine,raw Gegenbauer,0.00532616417665742,0.2,5
+Cosine,raw Legendre,0.0056281911336275425,0.5,5
+Cosine,physical,0.007622959503100105,0.0,5
+Cosine,explicit weight,0.005295536065763291,1.4,5
